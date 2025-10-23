@@ -1,0 +1,20 @@
+body {
+  background-color: #FFFFE0; /* warna kuning cerah */
+  font-family: Arial, sans-serif; /* jenis huruf yang berih dan mudah di baca */
+  color:  #91970; /* Warna teks utama (Biru gelap) */
+}
+.kartu-profil img {
+    width: 300px;
+    margin: 50px auto; /* 50px jarak atas/bawah, auto menengahkan kiri/kanan */
+    padding: 20px
+    background-color: white;
+    border-radius: 15px; /*membuat sudut menjadi melengkung */
+    box-shadow: 0 4px 8px rgba (0,0,0,0.1); /*efek bayangan */
+}
+.kartu-profil img {
+  width: 150px;
+  border-radius: %; /*Tirk untuk membuat gambar persegi menjadi  */
+}
+.kartu -profil (
+    /* --- (kode dari slide sebelumnya) --- */
+    text-align: center; /*menegahkan semua teks
